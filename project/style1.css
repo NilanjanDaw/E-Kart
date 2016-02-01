@@ -1,0 +1,89 @@
+.c1{
+    width:20%;
+    float: left;
+    } 
+.C3:hover{
+ background-color:white;
+ color: #FFA500; 
+  width: 100%;height: 100%;
+  text-decoration: none;  
+ 
+}
+.c4
+{
+    color:red;
+    text-align: center;
+}
+.C3{
+    display:block;
+    background-color:#FFA500;
+    color:white;
+    width: 100%;height: 100%;
+    text-decoration: none;
+    }
+.change{
+    background-color:#fdd922;
+    border:1px solid #e0bc2;
+    cursor:pointer;
+    color: #565656;
+    width: 100%;
+}
+.colour{
+    background-color:#FFA500;
+    color:white;
+}
+.colour:hover{
+    color:#FFA500;
+    background-color:white;
+}
+.dec
+{
+    font-family: cursive,sans-serif;
+    font-size:x-large;
+}
+.neong{ text-shadow: 0 0 0.2em #8F7; 
+    
+}
+.neonr{
+    text-shadow:0 0 0.2em #F87, 0 0 0.2em #F87;
+}
+.neonb{
+    text-shadow:0 0 0.2em #87F, 0 0 0.2em #87F, 0 0 0.2em #87F;
+}
+ul{
+    padding: 0;
+    list-style: armenian;
+}
+ul li{
+    float: left;
+    width: 100px;
+    text-align: center;
+}
+ul li a{
+    display:block;
+    text-decoration:none;
+}
+ul li a:hover{
+    display:block;
+}
+ul li ul{
+    display: none;
+}
+ul li:hover ul{
+    display:block;
+}
+body{
+    background-image: url(online-shopping_0.jpg); background-repeat: scroll;optimisation:quality;
+    -webki-background-size:cover;
+}
+.imagehead{
+    -webkit-mask:-webkit-gradient(linear, left top,left bottom,from(rgba(0,0,0,1)), to(rgba(0,0,0,0.2)));
+    -moz-mask:-moz-gradient(linear, left top,left bottom,from(rgba(0,0,0,1)), to(rgba(0,0,0,0.2)));}
+.imagehead:hover{
+     -webkit-mask:-webkit-gradient(linear, left top,left bottom,from(rgba(0,0,0,1)), to(rgba(0,0,0,1)));
+     -moz-mask:-moz-gradient(linear, left top,left bottom,from(rgba(0,0,0,1)), to(rgba(0,0,0,1)));
+     }
+.imagelist:hover{
+    
+    }
+    
